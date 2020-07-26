@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FoodDeliveryEventsGenerator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FoodDeliveryEventsGenerator_jar</output-path>
+    <root id="archive" name="FoodDeliveryEventsGenerator.jar">
+      <element id="module-output" name="FoodDeliveryEventsGenerator" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/info/picocli/picocli/4.0.0/picocli-4.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
